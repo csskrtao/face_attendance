@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pip install opencv-python face-recognition pandas pillow requests)",
+      "Bash(pip show face-recognition)",
+      "Bash(python attendance_system_simple.py)",
+      "Bash(pip install cmake)",
+      "Bash(pip install dlib face-recognition)",
+      "Bash(pip install mediapipe)",
+      "Bash(python attendance_system_opencv.py)",
+      "Bash(python attendance_system_demo.py)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
